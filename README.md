@@ -1,2 +1,2 @@
 # blog
-Code related to my blog found at jarekprzygodzki.wordpress.com
+Code related to my blog found at https://jarekprzygodzki.dev/
